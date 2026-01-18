@@ -31,6 +31,10 @@ Além disso, os conteúdos exploram o funcionamento dos juros compostos e aprese
 
 O material também aborda a aposentadoria, a proteção contra riscos e a importância da autonomia na gestão financeira. Por fim, reforça-se que a liberdade financeira é alcançada quando o dinheiro passa a trabalhar para o indivíduo por meio de aplicações estratégicas e consistentes.
 
+➡️ Acesso ao NotebookLM:  
+[Link para o NotebookLM](https://notebooklm.google.com/notebook/9d028d98-b289-4e22-80bb-4e2d68fae753/)
+
+
 
 
 
