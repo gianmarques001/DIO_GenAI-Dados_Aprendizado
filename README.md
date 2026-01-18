@@ -7,9 +7,12 @@ O NotebookLM foi utilizado como **ambiente principal de estudo, interação com 
 Educação financeira e fundamentos introdutórios sobre organização financeira pessoal, investimentos e construção de patrimônio.
 
 ## 🧠 Objetivo do Exercício
-- Utilizar o NotebookLM como ferramenta de aprendizagem ativa
-- Elaborar perguntas estratégicas e testar variações de prompts
-- Analisar respostas com base nas fontes carregadas
+Os objetivos foram formulados após uma leitura inicial dos materiais e serviram como guia para:
+- A elaboração de perguntas estratégicas
+- A criação e variação de prompts
+- A organização dos resumos e do glossário
+
+De forma geral, os objetivos buscam orientar a compreensão dos **fundamentos da educação financeira**, com foco em planejamento, comportamento financeiro e construção de patrimônio no longo prazo.
 
 ## 📚 Fontes Utilizadas
 O caderno no NotebookLM foi construído a partir de **8 fontes abertas**, sendo:
@@ -28,11 +31,8 @@ Além disso, os conteúdos exploram o funcionamento dos juros compostos e aprese
 
 O material também aborda a aposentadoria, a proteção contra riscos e a importância da autonomia na gestão financeira. Por fim, reforça-se que a liberdade financeira é alcançada quando o dinheiro passa a trabalhar para o indivíduo por meio de aplicações estratégicas e consistentes.
 
-## 🗂️ Organização do Repositório
 
-- `fontes/` – Lista e descrição das fontes utilizadas no NotebookLM  
-- `objetivos/` – Objetivos de estudo definidos a partir do material  
-- `prompts/` – Prompts testados e prompts reutilizáveis  
-- `resumos/` – Resumos estruturados gerados a partir das interações  
+
+
 
 
